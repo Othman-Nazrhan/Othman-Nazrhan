@@ -25,10 +25,10 @@
 🟨 **JavaScript** • 🔵 **TypeScript**
 
 ### Frontend
-⚛️ **ReactJS** • 🎨 **SCSS** • 🌐 **HTML** • 🎨 **CSS**
+⚛️ **ReactJS** • 🟥 **Angular** • 📱 **React Native** • 🎨 **SCSS** • 🌐 **HTML** • 🎨 **CSS**
 
 ### Backend
-🟩 **NodeJS**
+🟩 **NodeJS** • 🚂 **Express** • 🦄 **NestJS**
 
 ### Tools & Environment
 🌀 **Git** • 🐙 **GitHub** • 📝 **VSCode** • 🎨 **Figma**
@@ -48,13 +48,7 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  
-💼 Feel free to reach out and connect!
-
+  💼 Feel free to reach out and connect!
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Othman-Nazrhan&color=3B82F6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
