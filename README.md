@@ -21,17 +21,14 @@
 
 <div align="center">
 
-### Languages
-🟨 **JavaScript** • 🔵 **TypeScript**
-
-### Frontend
-⚛️ **ReactJS** • 🟥 **Angular** • 📱 **React Native** • 🎨 **SCSS** • 🌐 **HTML** • 🎨 **CSS**
-
-### Backend
-🟩 **NodeJS** • 🚂 **Express** • 🦄 **NestJS**
-
-### Tools & Environment
-🌀 **Git** • 🐙 **GitHub** • 📝 **VSCode** • 🎨 **Figma**
+| **Languages** | **Frontend** | **Backend** | **Tools & Environment** |
+|:-------------:|:------------:|:-----------:|:-----------------------:|
+| 🟨 **JavaScript** | ⚛️ **ReactJS** | 🟩 **NodeJS** | 🌀 **Git** |
+| 🔵 **TypeScript** | 🟥 **Angular** | 🚂 **Express** | 🐙 **GitHub** |
+| | 📱 **React Native** | 🦄 **NestJS** | 📝 **VSCode** |
+| | 🎨 **SCSS** | | 🎨 **Figma** |
+| | 🌐 **HTML** | | |
+| | 🎨 **CSS** | | |
 
 </div>
 
@@ -42,13 +39,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Othman-Nazrhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
 </div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  💼 Feel free to reach out and connect!
-</div>
-
----
